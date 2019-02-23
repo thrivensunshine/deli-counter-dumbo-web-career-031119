@@ -15,5 +15,5 @@ end
 
 
 def take_a_number(arr, str)
-  
+  arr.push(str)
 end
