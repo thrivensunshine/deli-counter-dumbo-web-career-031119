@@ -1,3 +1,4 @@
+
 def line(arr)
 new_arr = []
 
@@ -12,5 +13,6 @@ new_arr.push(" #{(arr.index(i)+1)}. #{i}")
 end
 return "The line is currently:#{new_arr.join(",")}"
 end 
+
 
 
