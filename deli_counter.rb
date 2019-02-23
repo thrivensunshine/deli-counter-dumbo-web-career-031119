@@ -11,7 +11,7 @@ new_arr.push(" #{(arr.index(i)+1)}. #{i}")
 
 
 end
-return "The line is currently:#{new_arr.join(",")}"
+puts "The line is currently:#{new_arr.join(",")}"
 end 
 
 
