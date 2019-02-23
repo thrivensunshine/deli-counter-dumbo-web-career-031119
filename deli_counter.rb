@@ -2,7 +2,7 @@ def line(arr)
 new_arr = []
 test =''
 if arr.length == 0
-puts "The line is currently empty."
+test = "The line is currently empty."
 end
 
 arr.each do |i|
