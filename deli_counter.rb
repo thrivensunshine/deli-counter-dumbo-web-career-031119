@@ -7,7 +7,7 @@ end
 
 arr.each do |i|
 new_arr.push(" #{(arr.index(i)+1)}. #{i}")
-test = "The line is currently:#{new_arr.join(",")}"
+test = "The line is currently:#{new_arr.join("")}"
 
 end
 puts test
