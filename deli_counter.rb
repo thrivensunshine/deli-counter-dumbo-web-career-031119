@@ -14,4 +14,6 @@ puts test
 end 
 
 
-
+def take_a_number(arr, str)
+  
+end
